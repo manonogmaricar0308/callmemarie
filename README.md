@@ -1,4 +1,4 @@
-[![Masterhead](https://res.cloudinary.com/practicaldev/image/fetch/s--tgmz6VoM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4g03awy6q0ylorsf12m3.jpg)]
+![Masterhead](https://res.cloudinary.com/practicaldev/image/fetch/s--tgmz6VoM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4g03awy6q0ylorsf12m3.jpg)
 <h1 align="center">Hi 👋, I'm Marie</h1>
 <h3 align="center">Hello World! Developer to be.. In progress..Hang in there...💪
 

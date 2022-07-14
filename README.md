@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Marie</h1>
 <h3 align="center">Hello World! Developer to be.. In progress..Hang in there...💪
+  
+ 
 
 <img align="middle" alt="Coding" width="500" src="https://i.pinimg.com/originals/55/75/62/557562924e3c65554cb9e3c8f6ae6dcb.gif">
 

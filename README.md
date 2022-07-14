@@ -1,8 +1,8 @@
-![Masterhead](https://campaignjr.com/v1/wp-content/uploads/2016/12/12_funny-and-inspiring-graphic-design-related-gifs.gif)
+
 <h1 align="center">Hi 👋, I'm Marie</h1>
 <h3 align="center">Hello World! Developer to be.. In progress..Hang in there...💪
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/55/75/62/557562924e3c65554cb9e3c8f6ae6dcb.gif">
+<img align="middle" alt="Coding" width="500" src="https://i.pinimg.com/originals/55/75/62/557562924e3c65554cb9e3c8f6ae6dcb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manonogmaricar0308&label=Profile%20views&color=0e75b6&style=flat" alt="manonogmaricar0308" /> </p>
 

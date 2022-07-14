@@ -1,5 +1,4 @@
-![Masterhead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCArsgJtu0Gel6IkAubsTu0CnkPAbecrUtw&usqp=CAU)
-
+![Masterhead](https://campaignjr.com/v1/wp-content/uploads/2016/12/12_funny-and-inspiring-graphic-design-related-gifs.gif)
 <h1 align="center">Hi 👋, I'm Marie</h1>
 <h3 align="center">Hello World! Developer to be.. In progress..Hang in there...💪
 

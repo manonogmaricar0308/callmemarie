@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **web programming languages**
 
-- 🌱 I’m currently learning **HTML**
-
 - 📫 How to reach me **manonogmaricar43@gmail.com**
 
 - ⚡ Fun fact **I am a pure introvert lol 😶‍🌫️**
